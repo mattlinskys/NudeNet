@@ -2,8 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/173154449.svg)](https://zenodo.org/badge/latestdoi/173154449) ![Upload Python package](https://github.com/notAI-tech/NudeNet/actions/workflows/python-publish.yml/badge.svg)
 
-![](https://i.imgur.com/0KPJbl9.jpg)
-
 **Classifier classes:**
 |class name   |  Description    |
 |--------|:--------------:
